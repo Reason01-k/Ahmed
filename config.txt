@@ -1,0 +1,6 @@
+owner=541712499318325253
+prefix=A
+game=Aplay
+stayinchannel=true
+songinstatus=false
+token=NTk0MjM5MzYwNjk4OTQxNDQx.XRZjBg.xX4GdwBjPLowxmHw1Np0BY1JMUU
